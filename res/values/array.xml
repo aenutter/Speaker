@@ -1,0 +1,87 @@
+10 = 97
+11 = 98
+19 = 96
+
+0 = 48
+20 = 50 +48 = 98
+
+10      4948
+0       48
+50      5048
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="files_array">        
+        <item>AA History Part 1-01aahistory1.mp3-4400-1177</item>        
+        <item>AA History Part 2-02aahistory2.mp3-4000-1121</item>
+        <item>AA History Part 3-03aahistory3.mp3-4300-1207</item>
+        <item>AA History Part 4-04aahistory4.mp3-3300-899</item>
+        <item>Doctor\'s Opinion 1-05docs_opinion1.mp3-5700-1386 </item>
+        <item>Doctor\'s Opinion 2-06docs_opinion.mp3-6300-1532</item>
+        <item>Doctor\'s Opinion 3-07docs_opinion.mp3-2400-615</item>
+        <item>Bill\'s Story 1-08bills_story1.mp3-6800-1650</item>
+        <item>Bill\'s Story 2-10bills_story2.mp3-6600-1589</item>
+        <item>There is a Solution 1-11there_is_a_solution.mp3-6100-1440</item>
+        <item>There is a Solution 2-13there_is_a_solution.mp3-3300-816</item>
+        <item>Spiritual Experience-12spiritual_experience.mp3-4600-1072</item>
+        <item>More about Alcoholism 1-14more_about_alcoholism1.mp3-5500-1294</item>
+        <item>More about Alcoholism 2-15more_about_alcoholism2.mp3-3300-795</item>
+        <item>We Agnostics 1-16we_agnostics1.mp3-5300-1284</item>
+        <item>We Agnostics 2-17we_agnostics2.mp3-5300-1284</item>
+        <item>How It Works 1-18how_it_works1.mp3-5300-1284</item>
+        <item>How It Works 2-19how_it_works2.mp3-5300-1284</item>
+        <item>Third Step-20_3rd_step.mp3-5300-1284</item>
+        <item>Fourth Step 1-21_4th_step.mp3-5300-1284</item>
+        <item>Fourth Step 2-22_4th_step2.mp3-5300-1284</item>
+        <item>Fourth Step 3-23_4th_step3.mp3-5300-1284</item>
+        <item>Freedom From Bondage-24freedom_from_bondage.mp3-5300-1284</item>
+        <item>Fourth Step 4-25_4th_step4.mp3-5300-1284</item>
+        <item>Fourth Step List Of Fears-26_4th_step_list_of_fears.mp3-5300-1284</item>
+        <item>Fourth Step Sex List-27_4th_step_sex_list.mp3-5300-1284</item>
+        <item>Fourth Step Harm-28_4th_step_harm.mp3-5300-1284</item>
+        <item>Fifth Step-29_5th_step.mp3-5300-1284</item>
+        <item>Sixth and Seventh Step-30_6th_and_7th_step.mp3-5300-1284</item>
+        <item>Eighth Step-31_8th_step.mp3-5300-1284</item>
+        <item>Eighth and Ninth Step-32_8th_and_9th_step.mp3-5300-1284</item>
+        <item>Tenth Step-33_10th_step.mp3-5300-1284</item>
+        <item>Eleventh Step-34_11th_step.mp3-5300-1284</item>
+        <item>Twelfth Step-35_12th_step.mp3-5300-1284</item>
+        <item>Tony H Pacific Group Meeting-tony_h_pacific_group_meeting.mp3-5300-1284</item>
+        <item>Paul O The Verett-paul_o_19theverett64.mp3-5300-1284</item>
+        <item>Clara S Singles Sober-clara_s_singlessobr.mp3-5300-1284</item>
+        <item>Bea M Sioux City-bea_m_sioux_city.mp3-5300-1284</item>
+        <item>Ann P El Paso-ann_p_el_paso.mp3-5300-1284</item>
+        <item>Adele D Bethel-adele_d_bethel.mp3-5300-1284</item>            
+</string-array>
+<string-array name="old_timers">        
+        <item>Al W.-Al_W.mp3-4400-3179</item>
+        <item>Ann P.-Ann_P.mp3-4400-1208</item>
+        <item>Art Lewis-Art_Lewis.mp3-4400-1208</item>
+        <item>Bill W.-Bill_W.mp3-4400-1208</item>
+        <item>Bob D.-Bob_D.mp3-4400-1208</item>
+        <item>Bob Lemke-Bob_Lemke.mp3-4400-1208</item>
+        <item>Bob T. Santa Monica CA-Bob_T._Santa_Monica_CA.mp3-4400-1208</item>
+        <item>Cahuenga Begue-Cahuenga_Begue.mp3-4400-1208</item>
+        <item>Charlie and Joe-Charlie_and_Joe.mp3-4400-1208</item>
+        <item>Chuck C.-Chuck_C.mp3-4400-1208</item>
+        <item>Dr. Paul O.-Dr._Paul_O.mp3-4400-1208</item>
+        <item>Mary Regan 1991-Mary_Regan_1991.mp3-4400-1208</item>
+        <item>Mildred Frank-Mildred_Frank.mp3-4400-1208</item>
+</string-array>
+<string-array name="big_book">   
+        <item>Preface-01_Preface.mp3-0-30:38</item>
+        <item>Chapter 1 Bill\'s Story-02_Chapter_01_Bills_Story.mp3-0-27:24</item>
+        <item>Chapter 2 There Is A Solution-03_Chapter_02_There_Is_A_Solution.mp3-0-021:53</item>
+        <item>Chapter 3 More About Alcoholism-04_Chapter_03_More_About_Alcoholism.mp3-0-24:12</item>
+        <item>Chapter 4 We Agnostics-05_Chapter_04_We_Agnostics.mp3-0-23:17</item>
+        <item>Chapter 5 How It Works-06_Chapter_05_How_It_Works.mp3-0-23:20</item>
+        <item>Chapter 6 In To Action-07_Chapter_06_In_To_Action.mp3-0-29:06</item>
+        <item>Chapter 7 Working With Others-08_Chapter_7_Working_With_Others.mp3-0-25:06</item>
+        <item>Chapter 8 To Wives-09_Chapter_08_To_Wives.mp3-0-32:44</item>
+        <item>Chapter 9 The Family Afterward-10_Chapter_09.mp3-0-25:34</item>
+        <item>Chapter 10 To Employers-11_Chapter_10_To_Employers.mp3-0-23:10</item>
+        <item>Chapter 11 A Vision For You-12_Chapter_11_A_Vision_For_You.mp3-0-23:09</item>
+        <item>Personal Stories Part 1-13_Personal_Stories_Part_1.mp3-0-17:06</item>
+        <item>Personal Stories Part 2-14_Personal_Stories_Part_2.mp3-0-17:39</item>
+</string-array>    
+</resources>

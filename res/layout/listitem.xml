@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <!-- <CheckBox
+        android:id="@+id/check"
+        android:layout_width="48dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20px"
+        android:layout_marginRight="10px" 
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+    </CheckBox>
+<TextView android:id="@+id/queue"
+    android:layout_below="@+id/check"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_centerVertical="false"	
+android:textSize="16sp"
+android:typeface="sans"
+android:paddingLeft="4dip"
+android:textColor="#FCFCFC"
+android:paddingTop="20dip"
+android:text="queue"/> -->
+<TextView android:id="@+id/titleLabel"
+    
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_centerVertical="false"	
+android:textSize="18sp"
+android:typeface="sans"
+android:paddingLeft="18dip"
+android:textColor="#FCFCFC"
+android:paddingTop="15dip"
+android:textStyle="bold"
+android:text="Title:     "/>
+    
+<TextView android:id="@+id/title"
+    android:layout_toRightOf="@+id/titleLabel"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_centerVertical="false"	
+android:textSize="18sp"
+android:typeface="sans"
+android:paddingLeft="18dip"
+android:textColor="#FCFCFC"
+android:paddingTop="15dip"
+android:text="title"/>
+
+<TextView android:id="@+id/lengthLabel"
+android:layout_below="@+id/titleLabel"    
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_centerVertical="false"	
+android:textSize="18sp"
+android:typeface="sans"
+android:paddingLeft="18dip"
+android:textColor="#FCFCFC"
+android:paddingTop="15dip"
+android:layout_marginTop="5dip"
+android:textStyle="bold"
+android:text="Length:    "/>
+
+<TextView android:id="@+id/length"
+    android:layout_toRightOf="@+id/lengthLabel"
+android:layout_below="@+id/titleLabel"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_centerVertical="false"	
+android:textSize="18sp"
+android:typeface="sans"
+android:layout_marginLeft="0dip"
+android:paddingTop="15dip"
+android:paddingBottom="15dip"
+android:layout_marginTop="5dip"
+android:paddingLeft="0dip"
+android:layout_alignParentRight="false"
+android:text="length"
+android:textColor="#FCFCFC"/>
+<!-- <ProgressBar
+    android:layout_below="@+id/title"
+      
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginRight="10dip"
+        android:paddingTop="5dip"/> -->
+
+
+
+</RelativeLayout>
